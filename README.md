@@ -11,13 +11,13 @@
 Вместе с командой побеждаю в конкурсах и хакатонах. Наши достижения:
 
 - Лидеры цифровой трансформации 2024 **[2 место]**</br>
-  диплом / [репозиторий](https://github.com/naborbukovok/moscow-hack-2024)</br>
+  диплом (скоро появится...) / [репозиторий](https://github.com/naborbukovok/moscow-hack-2024)</br>
 
 - Moscow Travel Hack 2024 **[3 место]**</br>
-  диплом / [репозиторий](https://github.com/naborbukovok/travel-hack-2024)</br>
+  [диплом](https://github.com/naborbukovok/naborbukovok/blob/main/moscow-travel-hack-2024-diploma.pdf) / [репозиторий](https://github.com/naborbukovok/travel-hack-2024)</br>
 
 - DataWagon 2023 **[1 место]**</br>
-  диплом / [репозиторий](https://github.com/naborbukovok/data-wagon-2023)</br>
+  [диплом](https://github.com/naborbukovok/naborbukovok/blob/main/data-wagon-2023-diploma.pdf) / [репозиторий](https://github.com/naborbukovok/data-wagon-2023)</br>
 
 - Лидеры цифровой трансформации 2021 **[5 место]**</br>
   диплом / [репозиторий](https://github.com/naborbukovok/geo-hack-2021)</br>
