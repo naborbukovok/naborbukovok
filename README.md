@@ -20,10 +20,10 @@
   [диплом](https://github.com/naborbukovok/naborbukovok/blob/main/data-wagon-2023-diploma.pdf) / [репозиторий](https://github.com/naborbukovok/data-wagon-2023)</br>
 
 - Лидеры цифровой трансформации 2021 **[5 место]**</br>
-  диплом / [репозиторий](https://github.com/naborbukovok/geo-hack-2021)</br>
+  диплом (скоро появится...) / [репозиторий](https://github.com/naborbukovok/geo-hack-2021)</br>
 
 **🦖 Выпускник Яндекс Практикума**</br>
-Закончила курс по веб-разработке с отличными результатами. Некоторые учебные проекты:</br>
+Закончила курс по веб-разработке с отличными результатами. [По ссылке](https://github.com/naborbukovok/naborbukovok/blob/main/practicum-web-diploma.pdf) можно найти мой диполом. Некоторые учебные проекты:</br>
 - Movies Explorer: поисковик фильмов</br>
   [репозиторий (frontend)](https://github.com/naborbukovok/movies-explorer-frontend) / [репозиторий (backend)](https://github.com/naborbukovok/movies-explorer-api)
 
